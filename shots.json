@@ -1,0 +1,26 @@
+[
+  {
+    "h": 720,
+    "name": "1-cover.jpg",
+    "query": "?shot=cover&photo=pier&caption=VICE%20CITY%20NIGHTS&subtitle=A%20STORY%20IN%20THREE%20ACTS&layout=grid&grade=sunset&size=1920x1080",
+    "w": 1280
+  },
+  {
+    "h": 800,
+    "name": "2-editor.jpg",
+    "query": "?shot=editor&photo=boulevard&caption=BOULEVARD%20QUEEN&subtitle=GOLDEN%20HOUR%20IN%20VICE%20CITY&layout=hero&grade=neon",
+    "w": 1280
+  },
+  {
+    "h": 1280,
+    "name": "3-cover-portrait.jpg",
+    "query": "?shot=cover&photo=boulevard&caption=BOULEVARD%20QUEEN&subtitle=GOLDEN%20HOUR%20IN%20VICE%20CITY&layout=triptych&grade=golden&size=1080x1350",
+    "w": 1024
+  },
+  {
+    "h": 1080,
+    "name": "4-cover-square.jpg",
+    "query": "?shot=cover&photo=pier&caption=VICE%20CITY%20NIGHTS&subtitle=A%20STORY%20IN%20THREE%20ACTS&layout=grid&grade=neon&size=1080x1080",
+    "w": 1080
+  }
+]
